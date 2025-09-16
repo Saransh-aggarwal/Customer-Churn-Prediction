@@ -34,7 +34,7 @@ An interactive dashboard was developed in Power BI to summarize the key findings
 * **High Monthly Charges Increase Churn:** Customers with higher-than-average monthly bills are more likely to seek cheaper alternatives.
 
 ### Dashboard Preview
-![Customer Churn Dashboard](churn_dashboard.png)
+![Customer Churn Dashboard](https://github.com/Saransh-aggarwal/Customer-Churn-Prediction/blob/main/image.png)
 
 ## 6. Business Recommendations
 
